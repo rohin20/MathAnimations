@@ -1,4 +1,5 @@
 # MathAnimations
-this repository contains the animations i have made so far.
+this repository contains the animations I have made so far.
 Links to my videos:
 
+https://youtu.be/gj4O1LrY-zg?si=5GYjsLvGcdUDSCyw
